@@ -13,7 +13,7 @@ The goal of this project is to demonstrate **data analysis, data visualization, 
 
 # 📊 Dashboard Preview
 
-![Blinkit Sales Dashboard](dashboard.png)
+Blinkit Dashboard.png
 
 ---
 
